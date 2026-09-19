@@ -1,0 +1,6 @@
+{
+  "name": "Clockscape",
+  "description": "Turn your Android phone into an atmospheric full-screen screensaver clock with customizable backgrounds and clock styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
