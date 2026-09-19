@@ -17,3 +17,16 @@ local.properties
 .env
 debug.keystore
 *.jks
+
+# Android Studio local files
+.idea/
+
+# Build/release artifacts
+app/release/
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
+
+gradle/gradle-daemon-jvm.properties
